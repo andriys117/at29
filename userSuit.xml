@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="User Testing Suite" verbose="1" parallel="false">
+    <test name="User Login Test">
+        <classes>
+            <class name="com.lits.sohanskyy.assignment.UserTests.TestUserLogin"></class>
+        </classes>
+    </test>
+
+    <test name="User Info Test">
+        <classes>
+            <class name="com.lits.sohanskyy.assignment.UserTests.TestUserInfo"></class>
+        </classes>
+    </test>
+
+</suite>
