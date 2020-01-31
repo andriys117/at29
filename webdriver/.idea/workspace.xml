@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="129c1eec-cfd6-4573-a886-dc7edf892c82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WzMo5kCcNPMYkGaHgQPyvzpvGi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspace\TestNg\webdriver\src\test\Resourses" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SeleniumTest.check_library">
+    <configuration name="SeleniumTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.check_library" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="check_library" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.check_text_one" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="check_text_one" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.google" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="google" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.google_search_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTest" />
+      <option name="METHOD_NAME" value="google_search_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SeleniumTest.check_library" />
+        <item itemvalue="TestNG.SeleniumTest.google" />
+        <item itemvalue="TestNG.SeleniumTest.check_text_one" />
+        <item itemvalue="TestNG.SeleniumTest.google_search_test" />
+        <item itemvalue="TestNG.SeleniumTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="129c1eec-cfd6-4573-a886-dc7edf892c82" name="Default Changelist" comment="" />
+      <created>1580148141934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580148141934</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580370365156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.-100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580370365156" />
+    <state width="1877" height="262" key="GridCell.Tab.0.bottom" timestamp="1580479615607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="262" key="GridCell.Tab.0.bottom/1920.-100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580479615607" />
+    <state width="1877" height="300" key="GridCell.Tab.0.bottom/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1580333675058" />
+    <state width="1877" height="262" key="GridCell.Tab.0.center" timestamp="1580479615607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="262" key="GridCell.Tab.0.center/1920.-100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580479615607" />
+    <state width="1877" height="300" key="GridCell.Tab.0.center/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1580333675058" />
+    <state width="1877" height="262" key="GridCell.Tab.0.left" timestamp="1580479615607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="262" key="GridCell.Tab.0.left/1920.-100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580479615607" />
+    <state width="1877" height="300" key="GridCell.Tab.0.left/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1580333675058" />
+    <state width="1877" height="262" key="GridCell.Tab.0.right" timestamp="1580479615607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="262" key="GridCell.Tab.0.right/1920.-100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580479615607" />
+    <state width="1877" height="300" key="GridCell.Tab.0.right/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1580333675058" />
+    <state x="490" y="176" key="Maven.ArtifactSearchDialog" timestamp="1580469040449">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="176" key="Maven.ArtifactSearchDialog/1920.-100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580469040449" />
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1580323191670">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="350" key="com.intellij.ide.util.TipDialog/1920.0.1536.840/0.0.1920.1050@0.0.1920.1050" timestamp="1580323191670" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1580470493693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/1920.-100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580470493693" />
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1580469476498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup/1920.-100.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1580469476498" />
+  </component>
+</project>
